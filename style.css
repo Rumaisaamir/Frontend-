@@ -26,7 +26,8 @@ span > img
   height: 45px;
 }
 
-.filter-sort-bar {
+.filter-sort-bar
+{
   text-align: center;
 }
 
