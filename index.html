@@ -34,8 +34,8 @@
           <button
             class="checkout-button"
             v-if="cartitemcount > 0"
-            v-on:click="toggleCheckout"
-          >
+            v-on:click="toggleCheckout">
+            
             <i class="fa-solid fa-cart-shopping"></i>
             {{ checkoutPage ? 'Hide Checkout' : 'Checkout (' + cartitemcount +
             ')' }}
