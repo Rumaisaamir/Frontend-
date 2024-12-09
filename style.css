@@ -20,7 +20,8 @@ h1
   margin: 0;
 }
 
-span > img {
+span > img 
+{
   width: 45px;
   height: 45px;
 }
